@@ -21,6 +21,6 @@ c. Subtotal with tax
 1. Open XAMPP control panel and start the Apache and MySQL.
 2. Extract the folder and copy the online_cart_hub folder into " C:\xampp\htdocs ".
 3. Create a new database in MySQL with name "my_shop".
-4. Open the database folder in online_cart_hub and import the file my_shop.sql into newly created database.
+4. Open the database folder in cart_hub and import the file my_shop.sql into newly created database.
 5. To run the application copy the url and paste on your browser ".
-http://localhost/online_cart_hub/
+http://localhost/cart_hub/
